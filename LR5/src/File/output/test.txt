@@ -1,0 +1,7 @@
+class Main {
+	private run() {
+	}
+		
+	private work() {
+	}
+}
